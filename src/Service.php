@@ -1,6 +1,6 @@
 <?php
 
-namespace Osen\Airtel;
+namespace xililo\Airtel;
 
 use Exception;
 use GuzzleHttp\Client;
