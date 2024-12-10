@@ -1,9 +1,9 @@
 {
     "authors": [
         {
-            "email": "hi@osen.co.ke",
-            "homepage": "https://osen.co.ke",
-            "name": "Osen Concepts",
+            "email": "info@sililoconnect.com",
+            "homepage": "https://github.com/xililo",
+            "name": "Xililo",
             "role": "Developer"
         }
     ],
@@ -12,7 +12,7 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "Osen\\Airtel\\": "src/"
+            "xililo\\Airtel\\": "src/"
         }
     },
     "description": "Intuitive and Comprehensive M-PESA SDK for PHP Applications. Just Plug 'N Play",
@@ -25,8 +25,8 @@
         "guzzlehttp/guzzle": ">=7.4"
     },
     "support": {
-        "email": "hi@osen.co.ke",
-        "issues": "https://github.com/osenco/airtel/issues"
+        "email": "info@sililoconnect.com",
+        "issues": "https://github.com/xililo/airtel/issues"
     },
     "type": "library"
 }
