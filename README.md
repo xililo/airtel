@@ -1,15 +1,17 @@
 # Airtel Money API PHP SDK
-Airtel Money API PHP SDK
+This fork is to ensure continuity of the projevt and to set some further customizations and imptovements. Thanks to [osenco/airtel](https://github.com/osenco/airtel)
+Airtel Money API PHP SDK.
+
 
 ## Installation
 ```bash
-composer require osenco/airtel
+composer require xililo/airtel
 ```
 
 ## Collection APIs
 ### Instantiate
 ```php
-use Osen\Airtel\Collection;
+use xililo\Airtel\Collection;
 
 $collectAPI = new Collection(
     array(
@@ -42,7 +44,7 @@ $collectAPI->authorize($token, function($newToken) {
 
 ## Disbursement APIs
 ```php
-use Osen\Airtel\Disbursement;
+use xililo\Airtel\Disbursement;
 
 $disburseAPI = new Disbursement(
     array(
