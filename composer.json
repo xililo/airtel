@@ -22,7 +22,7 @@
     "readme": "README.md",
     "require": {
         "php": ">=7.4",
-        "guzzlehttp/guzzle": "7.4.x-dev"
+        "guzzlehttp/guzzle": ">=7.4"
     },
     "support": {
         "email": "hi@osen.co.ke",
