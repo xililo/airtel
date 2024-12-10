@@ -15,7 +15,7 @@
             "xililo\\Airtel\\": "src/"
         }
     },
-    "description": "Intuitive and Comprehensive M-PESA SDK for PHP Applications. Just Plug 'N Play",
+    "description": "Intuitive and Comprehensive AIRTEL SDK for PHP Applications. Just Plug 'N Play",
     "license": "MIT",
     "minimum-stability": "dev",
     "name": "xililo/airtel",
